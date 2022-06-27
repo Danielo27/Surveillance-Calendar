@@ -1,0 +1,37 @@
+/*Danielo27 Surveillance Calendar v0.1.1*/
+
+.form {
+    text-align: center;
+    color: #478874;
+}
+
+.form__select {
+    border: solid 1px #478874;
+    color: #478874;
+    outline: none;
+    margin-top: 2vh;
+    text-align: center;
+    width: 27vw;
+}
+
+.form__button {
+    display: block;
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10rem;
+    height: 7vh;
+}
+
+.form__button {
+    background: #6ebea6;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    outline: none;
+    font-weight: 400;
+}
+
+.form__button:hover {
+    background: #478874;
+}

@@ -1,0 +1,26 @@
+/*Danielo27 Surveillance Calendar v0.1.1*/
+
+:root {
+    --morning-color: #eed678;
+    --afternoon-color: #ee9d6b;
+    --night-color: #242222;
+    --sleep-color: #55752d;
+}
+
+.day__turn {
+    background-color: var(--morning-color);
+}
+
+.affternoon__turn {
+    background-color: var(--afternoon-color);
+}
+
+.night__turn {
+    background-color: var(--night-color);
+    color: #fdfdfd;
+}
+
+.sleep__turn {
+    background-color: var(--sleep-color);
+    color: #fdfdfd;
+}

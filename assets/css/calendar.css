@@ -1,0 +1,29 @@
+/*Danielo27 Surveillance Calendar v0.1.1*/
+
+.calendar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto 0 auto;
+    width: 88%;
+}
+
+.calendar__month {
+    border: solid 1px #312f2f;
+    border-radius: 5px;
+    margin: .2rem;
+    text-align: center;
+}
+
+.calendar__month h2 {
+    font-family: 'Pacifico', cursive;
+}
+
+.calendar__month,
+tbody,
+tr,
+td {
+    white-space: nowrap;
+    padding: 0%;
+    font-size: .95rem;
+}

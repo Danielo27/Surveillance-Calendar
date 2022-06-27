@@ -1,0 +1,21 @@
+/*Danielo27 Surveillance Calendar v0.1.1*/
+
+.example__ul,
+.example__li {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.example__li {
+    border-radius: 7px;
+    margin: .3rem;
+    font-size: .67rem;
+    padding: .50rem;
+}
+
+@media screen and (max-width: 400px) {
+    .example__li p {
+        display: none;
+    }
+}
