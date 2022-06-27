@@ -16,7 +16,7 @@ He desarrollado esta aplicacion con el fin de poder generar un calendario en el 
 
 - La aplicacion aunque es responsive no se adapta del todo perfecto aun a algunos dispositivos por dicha razon se debera trabajar en mejorar el resposive desing.
 
-![Pantallazo de la Aplicacion]()
+![Pantallazo de la Aplicacion](https://raw.githubusercontent.com/Danielo27/Surveillance-Calendar/main/test.png)
 
 ## :nerd_face: Esta aplicacion fue desarrollada con:
 
